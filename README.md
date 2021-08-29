@@ -1,1 +1,1 @@
-# plant_seedlings_classification
+# Plant Seedlings Classification
